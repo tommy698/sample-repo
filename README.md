@@ -22,3 +22,4 @@ The courses comprising the Data Science Specialization are:
 *Regression Models
 *Practical Data Products
 
+Git is easy. Git is fun. Thanks Linux!
